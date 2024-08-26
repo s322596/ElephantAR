@@ -1,2 +1,1 @@
-# ElephantAR
- 
+# camera_kit_demo
